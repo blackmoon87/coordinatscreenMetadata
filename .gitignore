@@ -3,9 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# PyTorch & Weights (large binaries ignored from git, kept locally)
-*.pkl
-*.pt
+# Large crops binaries ignored from git, kept locally
 dataset_production/Crops/
 dataset/Crops/
 screenshots/
