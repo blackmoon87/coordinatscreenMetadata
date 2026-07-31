@@ -1,0 +1,32 @@
+# Diverse websites for UI element training data
+# Mix of layouts: forms, navs, images, buttons, tables, lists, media
+https://example.com
+https://httpbin.org/forms/post
+https://the-internet.herokuapp.com/login
+https://the-internet.herokuapp.com/checkboxes
+https://the-internet.herokuapp.com/dropdown
+https://the-internet.herokuapp.com/tables
+https://the-internet.herokuapp.com/inputs
+https://the-internet.herokuapp.com/forgot_password
+https://the-internet.herokuapp.com/key_presses
+https://the-internet.herokuapp.com/add_remove_elements/
+https://the-internet.herokuapp.com/challenging_dom
+https://the-internet.herokuapp.com/dynamic_content
+https://the-internet.herokuapp.com/entry_ad
+https://the-internet.herokuapp.com/floating_menu
+https://the-internet.herokuapp.com/broken_images
+https://the-internet.herokuapp.com/typos
+https://the-internet.herokuapp.com/status_codes
+https://www.w3schools.com/html/html_tables.asp
+https://www.w3schools.com/html/html_forms.asp
+https://www.w3schools.com/html/html_lists.asp
+https://www.w3schools.com/html/html_links.asp
+https://www.w3schools.com/html/html_images.asp
+https://www.w3schools.com/css/css_navbar.asp
+https://www.w3schools.com/html/html5_video.asp
+https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_select
+https://quotes.toscrape.com/
+https://books.toscrape.com/
+https://en.wikipedia.org/wiki/Web_design
+https://en.wikipedia.org/wiki/Graphical_user_interface
+https://news.ycombinator.com

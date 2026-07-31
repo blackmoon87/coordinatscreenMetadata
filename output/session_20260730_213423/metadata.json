@@ -1,0 +1,19 @@
+{
+  "session_id": "session_20260730_213423",
+  "page_url": "https://example.com",
+  "page_title": "Example Domain",
+  "captured_at": "2026-07-30T21:34:23.764618+00:00",
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "page_dimensions": {
+    "width": 1920.0,
+    "height": 1080.0
+  },
+  "screenshot_path": "output/session_20260730_213423/screenshot.png",
+  "annotated_path": "output/session_20260730_213423/annotated.png",
+  "total_elements": 7,
+  "interactive_elements": 1,
+  "exported_elements": 7
+}

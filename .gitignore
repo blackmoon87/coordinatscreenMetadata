@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch & Weights (large binaries ignored from git, kept locally)
+*.pkl
+*.pt
+dataset_production/Crops/
+dataset/Crops/
+screenshots/
+complex_test_output/
+youtube_test_output/
+live_retest_output/
+click_verification/
+form_test_output/
+.tempmediaStorage/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
